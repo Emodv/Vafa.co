@@ -1,0 +1,61 @@
+{
+  "person": {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "@id": "https://vafa.co/#emod",
+    "name": "Emod Vafa",
+    "url": "https://vafa.co/",
+    "email": "Emod@Vafa.co",
+    "jobTitle": "Growth Marketing Executive & Entrepreneur",
+    "sameAs": [
+      "https://ca.linkedin.com/in/emodvafa",
+      "https://github.com/Emodv"
+    ]
+  },
+  "ventures": [
+    {
+      "slug": "banoo-marketing",
+      "name": "Banoo Marketing",
+      "category": "Growth & advisory",
+      "role": "Founder",
+      "status": "Consulting & execution",
+      "url": "https://banoo.marketing/",
+      "text": "Customer acquisition, designed as a system.",
+      "detail": "Performance marketing, conversion optimization, and automation brought together around measurable business outcomes."
+    },
+    {
+      "slug": "canada-business-loan",
+      "name": "Canada Business Loan",
+      "category": "Business financing",
+      "role": "Builder & operator",
+      "status": "Financing discovery",
+      "url": "https://canadabusinessloan.ca/",
+      "text": "A clearer path to business financing.",
+      "detail": "Helping Canadian business owners explore financing options and connect with participating providers. Canada Business Loan is a financing discovery business, not a lender."
+    },
+    {
+      "slug": "cityverified",
+      "name": "CityVerified",
+      "category": "AI & local commerce",
+      "role": "Builder",
+      "status": "In development",
+      "url": "https://cityverified.ca/",
+      "text": "Local business, legible to intelligent systems.",
+      "detail": "Developing structured business information and evidence to help AI systems discover and understand local businesses."
+    }
+  ],
+  "experience": [
+    {
+      "name": "Intercap / .inc",
+      "relationship": "Career \u00b7 Director of Marketing",
+      "industry": "Technology",
+      "text": "Marketing leadership across acquisition, lifecycle, and multichannel growth, managing a team of more than ten."
+    },
+    {
+      "name": "416-Flowers",
+      "relationship": "Client engagement \u00b7 Banoo Marketing",
+      "industry": "Commerce",
+      "text": "Digital marketing and customer acquisition support for floral ecommerce."
+    }
+  ]
+}
