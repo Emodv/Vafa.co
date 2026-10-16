@@ -49,13 +49,383 @@
       "name": "Intercap / .inc",
       "relationship": "Career \u00b7 Director of Marketing",
       "industry": "Technology",
-      "text": "Marketing leadership across acquisition, lifecycle, and multichannel growth, managing a team of more than ten."
+      "text": "Marketing leadership across acquisition, lifecycle, and multichannel growth, managing a team of more than ten.",
+      "business": "Technology \u00b7 Business / brand"
     },
     {
       "name": "416-Flowers",
       "relationship": "Client engagement \u00b7 Banoo Marketing",
       "industry": "Commerce",
-      "text": "Digital marketing and customer acquisition support for floral ecommerce."
+      "text": "Digital marketing and customer acquisition support for floral ecommerce.",
+      "business": "Commerce \u00b7 Business / brand",
+      "logo": "/logos/416-flowers.svg",
+      "logo_source": "https://www.416-flowers.com/_next/static/media/416-Flowers.0e65rsvw_x2tn.svg"
+    },
+    {
+      "name": "VerticalScope",
+      "relationship": "Professional experience",
+      "industry": "Technology",
+      "kind": "Professional experience",
+      "text": "Part of my professional experience across marketing and growth. Contact me to discuss the work and scope of my involvement.",
+      "business": "Technology \u00b7 Business / brand"
+    },
+    {
+      "name": "SearchKings",
+      "relationship": "Professional experience",
+      "industry": "Marketing",
+      "kind": "Professional experience",
+      "text": "Part of my professional experience across marketing and growth. Contact me to discuss the work and scope of my involvement.",
+      "business": "Marketing \u00b7 Business / brand",
+      "logo": "/logos/searchkings.svg",
+      "logo_source": "https://cdn.searchkings.ca/img/sk-logo-d07e2f005d.svg"
+    },
+    {
+      "name": "Search Engine People (SEP)",
+      "relationship": "Professional experience",
+      "industry": "Marketing",
+      "kind": "Professional experience",
+      "text": "Part of my professional experience across marketing and growth. Contact me to discuss the work and scope of my involvement.",
+      "business": "Marketing \u00b7 Business / brand",
+      "logo": "/logos/search-engine-people-sep.png",
+      "logo_source": "https://www.searchenginepeople.com/wp-content/uploads/2026/01/Search-Engine-People-Logo-2026.png"
+    },
+    {
+      "name": "eDealer",
+      "relationship": "Professional experience",
+      "industry": "Automotive",
+      "kind": "Professional experience",
+      "text": "Part of my professional experience across marketing and growth. Contact me to discuss the work and scope of my involvement.",
+      "business": "Automotive \u00b7 Business / brand",
+      "logo": "/logos/edealer.webp",
+      "logo_source": "https://d1zjbkx971hjzm.cloudfront.net/wp-content/uploads/2024/11/14133352/EDealer%402x.webp"
+    },
+    {
+      "name": "Heydari Hamilton Law Firm",
+      "relationship": "Professional experience",
+      "industry": "Legal",
+      "kind": "Professional experience",
+      "text": "Included in my record of businesses, brands, and projects worked with.",
+      "business": "Legal \u00b7 Business / brand",
+      "contribution_status": "Details to document"
+    },
+    {
+      "name": "Divorce Marketing Group",
+      "relationship": "Professional experience",
+      "industry": "Legal",
+      "kind": "Professional experience",
+      "text": "Included in my record of businesses, brands, and projects worked with.",
+      "business": "Legal \u00b7 Business / brand",
+      "contribution_status": "Details to document"
+    },
+    {
+      "name": "Diamond & Diamond",
+      "relationship": "Professional experience",
+      "industry": "Legal",
+      "kind": "Professional experience",
+      "text": "Included in my record of businesses, brands, and projects worked with.",
+      "business": "Legal \u00b7 Business / brand",
+      "contribution_status": "Details to document"
+    },
+    {
+      "name": "Preszler Law",
+      "relationship": "Professional experience",
+      "industry": "Legal",
+      "kind": "Professional experience",
+      "text": "Included in my record of businesses, brands, and projects worked with.",
+      "business": "Legal \u00b7 Business / brand",
+      "contribution_status": "Details to document"
+    },
+    {
+      "name": "Fosters Law",
+      "relationship": "Professional experience",
+      "industry": "Legal",
+      "kind": "Professional experience",
+      "text": "Included in my record of businesses, brands, and projects worked with.",
+      "business": "Legal \u00b7 Business / brand",
+      "contribution_status": "Details to document"
+    },
+    {
+      "name": "Cactus Law",
+      "relationship": "Professional experience",
+      "industry": "Legal",
+      "kind": "Professional experience",
+      "text": "Included in my record of businesses, brands, and projects worked with.",
+      "business": "Legal \u00b7 Business / brand",
+      "contribution_status": "Details to document"
+    },
+    {
+      "name": "Lexpand",
+      "relationship": "Professional experience",
+      "industry": "Legal",
+      "kind": "Professional experience",
+      "text": "Included in my record of businesses, brands, and projects worked with.",
+      "business": "Legal \u00b7 Business / brand",
+      "contribution_status": "Details to document"
+    },
+    {
+      "name": "Subaru Canada",
+      "relationship": "Professional experience",
+      "industry": "Automotive",
+      "kind": "Professional experience",
+      "text": "Included in my record of businesses, brands, and projects worked with.",
+      "business": "Automotive \u00b7 Business / brand",
+      "contribution_status": "Details to document"
+    },
+    {
+      "name": "Pfaff Auto Group",
+      "relationship": "Professional experience",
+      "industry": "Automotive",
+      "kind": "Professional experience",
+      "text": "Included in my record of businesses, brands, and projects worked with.",
+      "business": "Automotive \u00b7 Business / brand",
+      "contribution_status": "Details to document",
+      "logo": "/logos/pfaff-auto-group.webp",
+      "logo_source": "https://www.pfaffauto.com/images/Logo/PFAFF_LOGOSM.webp"
+    },
+    {
+      "name": "Zanchin Auto Group",
+      "relationship": "Professional experience",
+      "industry": "Automotive",
+      "kind": "Professional experience",
+      "text": "Included in my record of businesses, brands, and projects worked with.",
+      "business": "Automotive \u00b7 Business / brand",
+      "contribution_status": "Details to document"
+    },
+    {
+      "name": "Policaro Auto Group",
+      "relationship": "Professional experience",
+      "industry": "Automotive",
+      "kind": "Professional experience",
+      "text": "Included in my record of businesses, brands, and projects worked with.",
+      "business": "Automotive \u00b7 Business / brand",
+      "contribution_status": "Details to document"
+    },
+    {
+      "name": "McDonald\u2019s Auto Group",
+      "relationship": "Professional experience",
+      "industry": "Automotive",
+      "kind": "Professional experience",
+      "text": "Included in my record of businesses, brands, and projects worked with.",
+      "business": "Automotive \u00b7 Business / brand",
+      "contribution_status": "Details to document"
+    },
+    {
+      "name": "Budds\u2019 BMW & Budds\u2019 Auto Group",
+      "relationship": "Professional experience",
+      "industry": "Automotive",
+      "kind": "Professional experience",
+      "text": "Included in my record of businesses, brands, and projects worked with.",
+      "business": "Automotive \u00b7 Business / brand",
+      "contribution_status": "Details to document"
+    },
+    {
+      "name": "AutoGuide",
+      "relationship": "Professional experience",
+      "industry": "Automotive",
+      "kind": "Professional experience",
+      "text": "Included in my record of businesses, brands, and projects worked with.",
+      "business": "Automotive \u00b7 Business / brand",
+      "contribution_status": "Details to document"
+    },
+    {
+      "name": "N5R",
+      "relationship": "Professional experience",
+      "industry": "Real Estate",
+      "kind": "Professional experience",
+      "text": "Included in my record of businesses, brands, and projects worked with.",
+      "business": "Real Estate \u00b7 Business / brand",
+      "contribution_status": "Details to document"
+    },
+    {
+      "name": "Sydenham Project",
+      "relationship": "Professional experience",
+      "industry": "Real Estate",
+      "kind": "Professional experience",
+      "text": "Included in my record of businesses, brands, and projects worked with.",
+      "business": "Real Estate \u00b7 Project",
+      "contribution_status": "Details to document"
+    },
+    {
+      "name": "aCondo",
+      "relationship": "Professional experience",
+      "industry": "Real Estate",
+      "kind": "Professional experience",
+      "text": "Included in my record of businesses, brands, and projects worked with.",
+      "business": "Real Estate \u00b7 Project",
+      "contribution_status": "Details to document"
+    },
+    {
+      "name": "Nobu Condo",
+      "relationship": "Professional experience",
+      "industry": "Real Estate",
+      "kind": "Professional experience",
+      "text": "Included in my record of businesses, brands, and projects worked with.",
+      "business": "Real Estate \u00b7 Project",
+      "contribution_status": "Details to document"
+    },
+    {
+      "name": "Panda Condo",
+      "relationship": "Professional experience",
+      "industry": "Real Estate",
+      "kind": "Professional experience",
+      "text": "Included in my record of businesses, brands, and projects worked with.",
+      "business": "Real Estate \u00b7 Project",
+      "contribution_status": "Details to document"
+    },
+    {
+      "name": "Thompson Hotel Condo",
+      "relationship": "Professional experience",
+      "industry": "Real Estate",
+      "kind": "Professional experience",
+      "text": "Included in my record of businesses, brands, and projects worked with.",
+      "business": "Real Estate \u00b7 Project",
+      "contribution_status": "Details to document"
+    },
+    {
+      "name": "Sugar Wharf Condos",
+      "relationship": "Professional experience",
+      "industry": "Real Estate",
+      "kind": "Professional experience",
+      "text": "Included in my record of businesses, brands, and projects worked with.",
+      "business": "Real Estate \u00b7 Project",
+      "contribution_status": "Details to document"
+    },
+    {
+      "name": "IN8 Development",
+      "relationship": "Professional experience",
+      "industry": "Real Estate",
+      "kind": "Professional experience",
+      "text": "Included in my record of businesses, brands, and projects worked with.",
+      "business": "Real Estate \u00b7 Business / brand",
+      "contribution_status": "Details to document"
+    },
+    {
+      "name": "connect.ca",
+      "relationship": "Professional experience",
+      "industry": "Real Estate",
+      "kind": "Professional experience",
+      "text": "Included in my record of businesses, brands, and projects worked with.",
+      "business": "Real Estate \u00b7 Business / brand",
+      "contribution_status": "Details to document"
+    },
+    {
+      "name": "The Condo Store",
+      "relationship": "Professional experience",
+      "industry": "Real Estate",
+      "kind": "Professional experience",
+      "text": "Included in my record of businesses, brands, and projects worked with.",
+      "business": "Real Estate \u00b7 Project",
+      "contribution_status": "Details to document"
+    },
+    {
+      "name": "Royal LePage",
+      "relationship": "Professional experience",
+      "industry": "Real Estate",
+      "kind": "Professional experience",
+      "text": "Included in my record of businesses, brands, and projects worked with.",
+      "business": "Real Estate \u00b7 Business / brand",
+      "contribution_status": "Details to document",
+      "logo": "/logos/royal-lepage.svg",
+      "logo_source": "https://storage.googleapis.com/www-d.royallepage.ca/media/main/svg/logos/home/rlp.caRLP-Logo-primary-E.svg"
+    },
+    {
+      "name": "Matric Mortgage Global",
+      "relationship": "Professional experience",
+      "industry": "Finance",
+      "kind": "Professional experience",
+      "text": "Included in my record of businesses, brands, and projects worked with.",
+      "business": "Finance \u00b7 Business / brand",
+      "contribution_status": "Details to document"
+    },
+    {
+      "name": "Windsor Family Credit Union",
+      "relationship": "Professional experience",
+      "industry": "Finance",
+      "kind": "Professional experience",
+      "text": "Included in my record of businesses, brands, and projects worked with.",
+      "business": "Finance \u00b7 Business / brand",
+      "contribution_status": "Details to document"
+    },
+    {
+      "name": "Toronto Gold Bullion",
+      "relationship": "Professional experience",
+      "industry": "Finance",
+      "kind": "Professional experience",
+      "text": "Included in my record of businesses, brands, and projects worked with.",
+      "business": "Finance \u00b7 Business / brand",
+      "contribution_status": "Details to document"
+    },
+    {
+      "name": "Visualping",
+      "relationship": "Professional experience",
+      "industry": "Technology",
+      "kind": "Professional experience",
+      "text": "Included in my record of businesses, brands, and projects worked with.",
+      "business": "Technology \u00b7 Business / brand",
+      "contribution_status": "Details to document"
+    },
+    {
+      "name": "RateMDs",
+      "relationship": "Professional experience",
+      "industry": "Technology",
+      "kind": "Professional experience",
+      "text": "Included in my record of businesses, brands, and projects worked with.",
+      "business": "Technology \u00b7 Business / brand",
+      "contribution_status": "Details to document"
+    },
+    {
+      "name": "VEGAIN",
+      "relationship": "Professional experience",
+      "industry": "Commerce",
+      "kind": "Professional experience",
+      "text": "Included in my record of businesses, brands, and projects worked with.",
+      "business": "Commerce \u00b7 Business / brand",
+      "contribution_status": "Details to document"
+    },
+    {
+      "name": "RealEstateTutoring.com",
+      "relationship": "Professional experience",
+      "industry": "Commerce",
+      "kind": "Professional experience",
+      "text": "Included in my record of businesses, brands, and projects worked with.",
+      "business": "Commerce \u00b7 Business / brand",
+      "contribution_status": "Details to document"
+    },
+    {
+      "name": "ATA Furniture Assembly",
+      "relationship": "Professional experience",
+      "industry": "Commerce",
+      "kind": "Professional experience",
+      "text": "Included in my record of businesses, brands, and projects worked with.",
+      "business": "Commerce \u00b7 Business / brand",
+      "contribution_status": "Details to document"
+    },
+    {
+      "name": "TreadmillReviews.net",
+      "relationship": "Professional experience",
+      "industry": "Commerce",
+      "kind": "Professional experience",
+      "text": "Included in my record of businesses, brands, and projects worked with.",
+      "business": "Commerce \u00b7 Business / brand",
+      "contribution_status": "Details to document"
+    },
+    {
+      "name": "FitRated",
+      "relationship": "Professional experience",
+      "industry": "Commerce",
+      "kind": "Professional experience",
+      "text": "Included in my record of businesses, brands, and projects worked with.",
+      "business": "Commerce \u00b7 Business / brand",
+      "contribution_status": "Details to document"
+    },
+    {
+      "name": "Mr. Rooter",
+      "relationship": "Professional experience",
+      "industry": "Home Services",
+      "kind": "Professional experience",
+      "text": "Included in my record of businesses, brands, and projects worked with.",
+      "business": "Home Services \u00b7 Business / brand",
+      "contribution_status": "Details to document"
     }
   ]
 }
