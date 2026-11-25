@@ -12,7 +12,7 @@ Import `Emodv/Vafa.co`. Framework: Other. Output: `public`. The included configu
 
 ## Verification and editorial standards
 
-Only user-supplied roles and descriptions are included. These are self-published statements, not third-party credentials. CityVerified is marked in development. 416-Flowers is labeled client work. No employment dates, audited metrics, testimonials, or unconfirmed logos are published. Expand experience only with confirmed relationship, contribution, dates and evidence. Do not add private account inventories or financial information.
+Only user-supplied roles and descriptions are included. These are self-published statements, not third-party credentials. CityVerified is marked in development. 416-Flowers is labeled client work. No employment dates, audited metrics, testimonials, or unconfirmed logos are published. Expand experience only with confirmed relationship, contribution, dates and evidence. Only resume-verified roles, dates, and results are published on the experience page; undocumented entries stay in content.json as draft and are not rendered. Do not add private account inventories or financial information.
 
 Public identity: `/identity.json`; schema.org Person is embedded on every page. Identity data identifies the site author; it does not cryptographically verify identity or imply brand endorsement.
 
