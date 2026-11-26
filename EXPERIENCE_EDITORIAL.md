@@ -17,4 +17,14 @@ Run from the resume master before merging PR 2. Only resume-verified roles, date
 - 16 accounts labeled with real relationship and era: 5 agency accounts through SearchKings and Search Engine People, 2016 to 2018; 5 dealer accounts through eDealer, 2014 to 2016; 4 VerticalScope properties, 2018 to 2022; 2 client engagements, 2025 to present.
 - Added from the resume: Rafih Auto Group and RedFlagDeals.
 - Pfaff logo: the card uses a dark face (logo_dark) so the white logo reads.
-- Held as draft, not rendered: Heydari Hamilton Law Firm, Divorce Marketing Group, Cactus Law, Lexpand, N5R, Sydenham Project, aCondo, Nobu Condo, Panda Condo, Thompson Hotel Condo, Sugar Wharf Condos, IN8 Development, connect.ca, The Condo Store, Royal LePage, Visualping, RealEstateTutoring.com, ATA Furniture Assembly, VEGAIN, Toronto Gold Bullion. Each needs role, dates, and relationship from Emod before it ships.
+- Held as draft, not rendered: Cactus Law, Lexpand, N5R, Sydenham Project, aCondo, Nobu Condo, Panda Condo, Thompson Hotel Condo, Sugar Wharf Condos, IN8 Development, connect.ca, The Condo Store, Royal LePage, Visualping, RealEstateTutoring.com, ATA Furniture Assembly, VEGAIN, Toronto Gold Bullion. Each needs role, dates, and relationship from Emod before it ships.
+
+## Update, Nov 25, 2026
+
+From Emod's voice note, Nov 25 ~23:58 ET. Only his words and verified history are published.
+
+- Fosters Law: "Client engagement · 2025 to Nov 2026". Emod said the work runs until the end of November 2026. Relationship label unchanged; Banoo vs Taco Media Group still unconfirmed.
+- Added Mirian Law Firm, Client, 2023 returning 2026. Google Ads and YouTube campaigns July to October 2023; October 2023 report showed 4,800+ users a month at a $0.89 CPC; back in November 2026 for a PPC audit and a YouTube campaign.
+- Promoted from draft to Client, no dates (none on file, none invented): Heydari Hamilton Law Firm, Heydari Green, Divorce Marketing Group. Emod confirmed he managed their marketing. Heydari Hamilton and Heydari Green are listed as two names, exactly as he spoke them; no evidence was found that they are one firm.
+- Budds card now notes multiple Budds dealerships, including BMW. No other dealership names added.
+- Macdonald Auto Group spelling is still not settled: Emod said "McDonald's Auto Group" in a voice note, but the two spellings sound the same spoken, so voice cannot settle it. The resume says Macdonald twice, so Macdonald stands until he confirms in text.

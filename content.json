@@ -102,23 +102,30 @@
     },
     {
       "name": "Heydari Hamilton Law Firm",
-      "relationship": "Professional experience",
+      "relationship": "Client",
       "industry": "Legal",
-      "kind": "Professional experience",
-      "text": "Included in my record of businesses, brands, and projects worked with.",
+      "kind": "Client",
+      "text": "Managed the firm's marketing.",
       "business": "Legal \u00b7 Business / brand",
-      "contribution_status": "Details to document",
-      "status": "draft"
+      "contribution_status": "Details to document"
+    },
+    {
+      "name": "Heydari Green",
+      "relationship": "Client",
+      "industry": "Legal",
+      "kind": "Client",
+      "text": "Managed the firm's marketing.",
+      "business": "Legal \u00b7 Business / brand",
+      "contribution_status": "Details to document"
     },
     {
       "name": "Divorce Marketing Group",
-      "relationship": "Professional experience",
+      "relationship": "Client",
       "industry": "Legal",
-      "kind": "Professional experience",
-      "text": "Included in my record of businesses, brands, and projects worked with.",
+      "kind": "Client",
+      "text": "Managed the firm's marketing.",
       "business": "Legal \u00b7 Business / brand",
-      "contribution_status": "Details to document",
-      "status": "draft"
+      "contribution_status": "Details to document"
     },
     {
       "name": "Diamond & Diamond",
@@ -140,10 +147,19 @@
     },
     {
       "name": "Fosters Law",
-      "relationship": "Client engagement \u00b7 2025 to present",
+      "relationship": "Client engagement \u00b7 2025 to Nov 2026",
       "industry": "Legal",
       "kind": "Client engagement",
       "text": "Paid acquisition and funnel work. Score is lead quality and acquisition cost.",
+      "business": "Legal \u00b7 Business / brand",
+      "contribution_status": "Details to document"
+    },
+    {
+      "name": "Mirian Law Firm",
+      "relationship": "Client \u00b7 2023, returning 2026",
+      "industry": "Legal",
+      "kind": "Client",
+      "text": "Ross Mirian's personal-injury firm in Thornhill. Google Ads and YouTube campaigns, July to October 2023. The October 2023 report showed 4,800+ users a month at a $0.89 CPC. Back in November 2026 for a PPC audit and a YouTube campaign.",
       "business": "Legal \u00b7 Business / brand",
       "contribution_status": "Details to document"
     },
@@ -220,7 +236,7 @@
       "relationship": "Dealer account \u00b7 eDealer, 2014\u20132016",
       "industry": "Automotive",
       "kind": "Dealer account",
-      "text": "Dealer account. Inventory, launch, and seasonal search inside OEM co-op rules.",
+      "text": "Multiple Budds dealerships, including BMW. Inventory, launch, and seasonal search inside OEM co-op rules.",
       "business": "Automotive \u00b7 Business / brand",
       "contribution_status": "Details to document"
     },
