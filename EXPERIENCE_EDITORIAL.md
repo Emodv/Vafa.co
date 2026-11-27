@@ -32,3 +32,15 @@ From Emod's voice note, Nov 25 ~23:58 ET. Only his words and verified history ar
 ## Update, Nov 27, 2026
 
 - MacDonald Auto Group: spelling fixed from Macdonald to MacDonald (capital D, no apostrophe) across content.json and this note, on Emod's text confirmation.
+
+## Update, Nov 27, 2026 — Luxury Real Estate Marketing page
+
+From Emod's spec, Nov 27. New page /real-estate/ ("Luxury Real Estate Marketing") plus three Real Estate entries on the Experience page. Only documented material is published; nothing invented.
+
+- aCondo.ca promoted from draft to Project work, Oct–Dec 2018: "Produced and managed project-specific pages for Toronto pre-construction developments, supporting project discovery and buyer inquiries. 39 condo and townhome project pages completed between October 16 and December 6, 2018." No development names on the page; the four log examples (The Kingsway TW93, YSL Residences, Avenue 151 Yorkville, Stockyard District Residences) are held pending Emod's permission.
+- Sobha Dubai added as Campaign work, 2025: planning and paid search execution for Sobha Siniya Island and Sobha Central (Google Search/Display, Meta awareness and retargeting, project-specific landing pages, forms, WhatsApp follow-up; targeting Australia, London, India). No campaign metrics on the public page. Held: Dec 1–8, 2025 report (1,220 impressions, 55 clicks, CAD $116.03 spend, 0 recorded conversions). No investment or visa ad copy reused.
+- Pre-construction buyer inquiries added as Project work, 2019–2021: inquiry capture and routing to broker partners for follow-up. No lead data, no outcomes claimed, no development names.
+- North Cyprus keyword report held out entirely (2,426 impressions, 238 clicks, CAD $34.57, 0 conversions, all-time): not a case study, not buyer acquisition.
+- Broker title verified: Forest Hill Yorkville lists Emad Vafa as Broker. Page states "Licensed Real Estate Broker". No content or images copied from that profile.
+- Not claimed anywhere: units sold, viewings booked, qualified international buyers, revenue, ROI, cost per qualified lead, conversion rates; no campaigns or case studies in Egypt, Türkiye, or Italy; no Arabic capability or bilingual service.
+- Page links: footer on every page, homepage About section, and the Experience page. Page added to sitemap.xml and llms.txt. Nav left unchanged (a fifth header link would crowd small screens); the page is reached from the footer, homepage, and Experience page.
