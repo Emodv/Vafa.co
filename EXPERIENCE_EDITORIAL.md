@@ -33,6 +33,19 @@ From Emod's voice note, Nov 25 ~23:58 ET. Only his words and verified history ar
 
 - MacDonald Auto Group: spelling fixed from Macdonald to MacDonald (capital D, no apostrophe) across content.json and this note, on Emod's text confirmation.
 
+## Update, Nov 27, 2026 — Intercap case study
+
+From Emod's rundown, resume master, and Biz Builder Spotlight. New page /case-studies/intercap/ ("Building an in-house marketing team from scratch"), linked from the Intercap card on the Experience page, the homepage About section, the footer, the sitemap, and llms.txt. Only verified material is published; nothing invented.
+
+- Role/dates: Director of Marketing, Intercap Inc., Toronto, Jan 2023 to Mar 2025. Team 1 to 10+ specialists; ARR supported $5M to $10M; lead volume up 50%; $250K monthly budget.
+- .inc and .box go-to-market with product and revenue; positioning and pre-launch demand produced thousands of interested prospects before launch.
+- Paid acquisition Google Ads/Meta/LinkedIn; lifecycle nurture, segmentation, Close CRM pipeline workflows with Twilio SMS; 1M+ outbound emails a month via Mailgun and SendGrid; AI-assisted workflows raised campaign and reporting output without equivalent headcount.
+- Measurement: UTM systems, Microsoft Clarity, Mixpanel.
+- Podcast: Biz Builder Spotlight, "How Emod Vafa Built a Scalable In-House Marketing Team for a Venture Capital Firm's Portfolio Companies", April 14, 2025, 37 minutes. Correction: the brief said Apr 18, 2025, 37:05, but that date and duration belong to the adjacent Nate Burke episode. The Emod episode is Apr 14, 2025, 37:22 per the publisher's own profile feed.
+- CPL SETTLED by Emod himself, Nov 27, 2026, direct message: was close to $180, he brought it down to $70. Used on the case study page as "about $180 to about $70 (approximate, Emod-provided)". This supersedes all three conflicting resume versions ($300 to $80; down 30%; down ~50%). The Intercap Experience card was updated to the settled figure at the same time.
+- NOT attributed to Intercap: the OpenAI/Claude/Gemini workflow line in the resume master belongs to the Banoo Marketing role (2025–Present), not Intercap.
+- Internal evidence record: ~/workspace/vafa-fix/INTERCAP_CASE_STUDY_EVIDENCE.md (kept local, not pushed).
+
 ## Update, Nov 27, 2026 — Luxury Real Estate Marketing page
 
 From Emod's spec, Nov 27. New page /real-estate/ ("Luxury Real Estate Marketing") plus three Real Estate entries on the Experience page. Only documented material is published; nothing invented.
