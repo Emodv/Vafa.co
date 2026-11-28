@@ -1,500 +1,577 @@
 {
-  "person": {
-    "@context": "https://schema.org",
-    "@type": "Person",
-    "@id": "https://vafa.co/#emod",
-    "name": "Emod Vafa",
-    "url": "https://vafa.co/",
-    "email": "Emod@Vafa.co",
-    "jobTitle": "Growth Marketing Executive & Entrepreneur",
-    "sameAs": [
-      "https://ca.linkedin.com/in/emodvafa",
-      "https://github.com/Emodv"
-    ]
-  },
-  "ventures": [
-    {
-      "slug": "banoo-marketing",
-      "name": "Banoo Marketing",
-      "category": "Growth & advisory",
-      "role": "Founder",
-      "status": "Consulting & execution",
-      "url": "https://banoo.marketing/",
-      "text": "Customer acquisition, designed as a system.",
-      "detail": "Performance marketing, conversion optimization, and automation brought together around measurable business outcomes."
-    },
-    {
-      "slug": "canada-business-loan",
-      "name": "Canada Business Loan",
-      "category": "Business financing",
-      "role": "Builder & operator",
-      "status": "Financing discovery",
-      "url": "https://canadabusinessloan.ca/",
-      "text": "A clearer path to business financing.",
-      "detail": "Helping Canadian business owners explore financing options and connect with participating providers. Canada Business Loan is a financing discovery business, not a lender."
-    },
-    {
-      "slug": "cityverified",
-      "name": "CityVerified",
-      "category": "AI & local commerce",
-      "role": "Builder",
-      "status": "In development",
-      "url": "https://cityverified.ca/",
-      "text": "Local business, legible to intelligent systems.",
-      "detail": "Developing structured business information and evidence to help AI systems discover and understand local businesses."
-    }
+ "person": {
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://vafa.co/#emod",
+  "name": "Emod Vafa",
+  "url": "https://vafa.co/",
+  "email": "Emod@Vafa.co",
+  "jobTitle": "Growth Marketing Executive & Entrepreneur",
+  "sameAs": [
+   "https://ca.linkedin.com/in/emodvafa",
+   "https://github.com/Emodv"
   ],
-  "experience": [
-    {
-      "name": "Intercap / .inc",
-      "relationship": "Career · Director of Marketing, Jan 2023 to Mar 2025",
-      "industry": "Technology",
-      "text": "Director of Marketing, Jan 2023 to Mar 2025. Supported ARR growth from $5M to $10M. Cut CPL from about $180 to about $70 while lead volume rose 50 percent. Built the marketing function from 1 to 10 plus specialists.",
-      "business": "Technology · Business / brand",
-      "kind": "Career",
-      "case_study": "/case-studies/intercap/"
-    },
-    {
-      "name": "416-Flowers",
-      "relationship": "Client engagement · Banoo Marketing",
-      "industry": "Commerce",
-      "text": "Digital marketing and customer acquisition support for floral ecommerce.",
-      "business": "Commerce · Business / brand",
-      "logo": "/logos/416-flowers.svg",
-      "logo_source": "https://www.416-flowers.com/_next/static/media/416-Flowers.0e65rsvw_x2tn.svg"
-    },
-    {
-      "name": "VerticalScope",
-      "relationship": "Employer · Senior Growth Marketing Manager, 2018–2022",
-      "industry": "Technology",
-      "kind": "Career",
-      "text": "Senior Growth Marketing Manager, 2018 to 2022. Affiliate revenue up 75 percent and CPC down 45 percent across five high-traffic consumer properties. Led a Black Friday program of about $1.5M, scaling only while the roughly 3 to 1 revenue line held.",
-      "business": "Technology · Business / brand"
-    },
-    {
-      "name": "SearchKings",
-      "relationship": "Employer · Agency Paid Search and Performance Leader, 2016–2018",
-      "industry": "Marketing",
-      "kind": "Career",
-      "text": "Agency Paid Search and Performance Leader, 2016 to 2018, in one combined role across SearchKings and Search Engine People. Delivered 5x plus ROAS on high-spend accounts, including personal-injury search at $50 to $200 plus CPC across 70 plus accounts.",
-      "business": "Marketing · Business / brand",
-      "logo": "/logos/searchkings.svg",
-      "logo_source": "https://cdn.searchkings.ca/img/sk-logo-d07e2f005d.svg"
-    },
-    {
-      "name": "Search Engine People (SEP)",
-      "relationship": "Employer · Agency Paid Search and Performance Leader, 2016–2018",
-      "industry": "Marketing",
-      "kind": "Career",
-      "text": "Agency Paid Search and Performance Leader, 2016 to 2018, in one combined role across SearchKings and Search Engine People. Delivered 5x plus ROAS on high-spend accounts, including personal-injury search at $50 to $200 plus CPC across 70 plus accounts.",
-      "business": "Marketing · Business / brand",
-      "logo": "/logos/search-engine-people-sep.png",
-      "logo_source": "https://www.searchenginepeople.com/wp-content/uploads/2026/01/Search-Engine-People-Logo-2026.png"
-    },
-    {
-      "name": "eDealer",
-      "relationship": "Employer · Digital Marketing Manager, 2014–2016",
-      "industry": "Automotive",
-      "kind": "Career",
-      "text": "Digital Marketing Manager, 2014 to 2016. Digital acquisition for 20 plus dealerships and dealer groups: inventory, launch, and seasonal search inside OEM co-op rules.",
-      "business": "Automotive · Business / brand",
-      "logo": "/logos/edealer.webp",
-      "logo_source": "https://d1zjbkx971hjzm.cloudfront.net/wp-content/uploads/2024/11/14133352/EDealer%402x.webp"
-    },
-    {
-      "name": "Heydari Hamilton Law Firm",
-      "relationship": "Client",
-      "industry": "Legal",
-      "kind": "Client",
-      "text": "Managed the firm's marketing.",
-      "business": "Legal · Business / brand",
-      "contribution_status": "Details to document"
-    },
-    {
-      "name": "Heydari Green",
-      "relationship": "Client",
-      "industry": "Legal",
-      "kind": "Client",
-      "text": "Managed the firm's marketing.",
-      "business": "Legal · Business / brand",
-      "contribution_status": "Details to document"
-    },
-    {
-      "name": "Divorce Marketing Group",
-      "relationship": "Client",
-      "industry": "Legal",
-      "kind": "Client",
-      "text": "Managed the firm's marketing.",
-      "business": "Legal · Business / brand",
-      "contribution_status": "Details to document"
-    },
-    {
-      "name": "Diamond & Diamond",
-      "relationship": "Agency account · SearchKings / Search Engine People, 2016–2018",
-      "industry": "Legal",
-      "kind": "Agency account",
-      "text": "Personal-injury search in $50 to $200 plus CPC auctions. Accountability was lead quality and acquisition cost.",
-      "business": "Legal · Business / brand",
-      "contribution_status": "Details to document"
-    },
-    {
-      "name": "Preszler Law",
-      "relationship": "Agency account · SearchKings / Search Engine People, 2016–2018",
-      "industry": "Legal",
-      "kind": "Agency account",
-      "text": "Personal-injury search in $50 to $200 plus CPC auctions. Accountability was lead quality and acquisition cost.",
-      "business": "Legal · Business / brand",
-      "contribution_status": "Details to document"
-    },
-    {
-      "name": "Fosters Law",
-      "relationship": "Client engagement · 2025 to Nov 2026",
-      "industry": "Legal",
-      "kind": "Client engagement",
-      "text": "Paid acquisition and funnel work. Score is lead quality and acquisition cost.",
-      "business": "Legal · Business / brand",
-      "contribution_status": "Details to document"
-    },
-    {
-      "name": "Mirian Law Firm",
-      "relationship": "Client · 2023, returning 2026",
-      "industry": "Legal",
-      "kind": "Client",
-      "text": "Ross Mirian's personal-injury firm in Thornhill. Google Ads and YouTube campaigns, July to October 2023. The October 2023 report showed 4,800+ users a month at a $0.89 CPC. Back in November 2026 for a PPC audit and a YouTube campaign.",
-      "business": "Legal · Business / brand",
-      "contribution_status": "Details to document"
-    },
-    {
-      "name": "Cactus Law",
-      "relationship": "Professional experience",
-      "industry": "Legal",
-      "kind": "Professional experience",
-      "text": "Included in my record of businesses, brands, and projects worked with.",
-      "business": "Legal · Business / brand",
-      "contribution_status": "Details to document",
-      "status": "draft"
-    },
-    {
-      "name": "Lexpand",
-      "relationship": "Professional experience",
-      "industry": "Legal",
-      "kind": "Professional experience",
-      "text": "Included in my record of businesses, brands, and projects worked with.",
-      "business": "Legal · Business / brand",
-      "contribution_status": "Details to document",
-      "status": "draft"
-    },
-    {
-      "name": "Subaru Canada",
-      "relationship": "Agency account · SearchKings / Search Engine People, 2016–2018",
-      "industry": "Automotive",
-      "kind": "Agency account",
-      "text": "Inventory search for Subaru Canada, managed as part of the agency portfolio.",
-      "business": "Automotive · Business / brand",
-      "contribution_status": "Details to document"
-    },
-    {
-      "name": "Pfaff Auto Group",
-      "relationship": "Dealer account · eDealer, 2014–2016",
-      "industry": "Automotive",
-      "kind": "Dealer account",
-      "text": "Dealer account. Inventory, launch, and seasonal search inside OEM co-op rules.",
-      "business": "Automotive · Business / brand",
-      "contribution_status": "Details to document",
-      "logo": "/logos/pfaff-auto-group.webp",
-      "logo_source": "https://www.pfaffauto.com/images/Logo/PFAFF_LOGOSM.webp",
-      "logo_dark": true
-    },
-    {
-      "name": "Zanchin Auto Group",
-      "relationship": "Dealer account · eDealer, 2014–2016",
-      "industry": "Automotive",
-      "kind": "Dealer account",
-      "text": "Dealer account. Inventory, launch, and seasonal search inside OEM co-op rules.",
-      "business": "Automotive · Business / brand",
-      "contribution_status": "Details to document"
-    },
-    {
-      "name": "Policaro Auto Group",
-      "relationship": "Dealer account · eDealer, 2014–2016",
-      "industry": "Automotive",
-      "kind": "Dealer account",
-      "text": "Dealer account. Inventory, launch, and seasonal search inside OEM co-op rules.",
-      "business": "Automotive · Business / brand",
-      "contribution_status": "Details to document"
-    },
-    {
-      "name": "MacDonald Auto Group",
-      "relationship": "Dealer account · eDealer, 2014–2016",
-      "industry": "Automotive",
-      "kind": "Dealer account",
-      "text": "Dealer account. Inventory, launch, and seasonal search inside OEM co-op rules.",
-      "business": "Automotive · Business / brand",
-      "contribution_status": "Details to document"
-    },
-    {
-      "name": "Budds’ BMW & Budds’ Auto Group",
-      "relationship": "Dealer account · eDealer, 2014–2016",
-      "industry": "Automotive",
-      "kind": "Dealer account",
-      "text": "Multiple Budds dealerships, including BMW. Inventory, launch, and seasonal search inside OEM co-op rules.",
-      "business": "Automotive · Business / brand",
-      "contribution_status": "Details to document"
-    },
-    {
-      "name": "Rafih Auto Group",
-      "relationship": "Dealer account · eDealer, 2014–2016; agency account, 2016–2018",
-      "industry": "Automotive",
-      "kind": "Dealer account",
-      "text": "Dealer group managed in both eras: inventory and launch search at eDealer, then agency performance work at SearchKings and Search Engine People.",
-      "business": "Automotive · Business / brand"
-    },
-    {
-      "name": "AutoGuide",
-      "relationship": "VerticalScope property · 2018–2022",
-      "industry": "Automotive",
-      "kind": "VerticalScope property",
-      "text": "VerticalScope property. Affiliate and programmatic growth across a high-traffic consumer audience.",
-      "business": "Automotive · Business / brand",
-      "contribution_status": "Details to document"
-    },
-    {
-      "name": "RedFlagDeals",
-      "relationship": "VerticalScope property · 2018–2022",
-      "industry": "Technology",
-      "kind": "VerticalScope property",
-      "text": "VerticalScope property. Affiliate and programmatic growth across a high-traffic consumer audience.",
-      "business": "Technology · Business / brand"
-    },
-    {
-      "name": "N5R",
-      "relationship": "Professional experience",
-      "industry": "Real Estate",
-      "kind": "Professional experience",
-      "text": "Included in my record of businesses, brands, and projects worked with.",
-      "business": "Real Estate · Business / brand",
-      "contribution_status": "Details to document",
-      "status": "draft"
-    },
-    {
-      "name": "Sydenham Project",
-      "relationship": "Professional experience",
-      "industry": "Real Estate",
-      "kind": "Professional experience",
-      "text": "Included in my record of businesses, brands, and projects worked with.",
-      "business": "Real Estate · Project",
-      "contribution_status": "Details to document",
-      "status": "draft"
-    },
-    {
-      "name": "aCondo.ca",
-      "relationship": "Project work · Oct–Dec 2018",
-      "industry": "Real Estate",
-      "kind": "Project work",
-      "text": "Produced and managed project-specific pages for Toronto pre-construction developments, supporting project discovery and buyer inquiries. 39 condo and townhome project pages completed between October 16 and December 6, 2018.",
-      "business": "Real Estate · Project"
-    },
-    {
-      "name": "Nobu Condo",
-      "relationship": "Professional experience",
-      "industry": "Real Estate",
-      "kind": "Professional experience",
-      "text": "Included in my record of businesses, brands, and projects worked with.",
-      "business": "Real Estate · Project",
-      "contribution_status": "Details to document",
-      "status": "draft"
-    },
-    {
-      "name": "Panda Condo",
-      "relationship": "Professional experience",
-      "industry": "Real Estate",
-      "kind": "Professional experience",
-      "text": "Included in my record of businesses, brands, and projects worked with.",
-      "business": "Real Estate · Project",
-      "contribution_status": "Details to document",
-      "status": "draft"
-    },
-    {
-      "name": "Thompson Hotel Condo",
-      "relationship": "Professional experience",
-      "industry": "Real Estate",
-      "kind": "Professional experience",
-      "text": "Included in my record of businesses, brands, and projects worked with.",
-      "business": "Real Estate · Project",
-      "contribution_status": "Details to document",
-      "status": "draft"
-    },
-    {
-      "name": "Sugar Wharf Condos",
-      "relationship": "Professional experience",
-      "industry": "Real Estate",
-      "kind": "Professional experience",
-      "text": "Included in my record of businesses, brands, and projects worked with.",
-      "business": "Real Estate · Project",
-      "contribution_status": "Details to document",
-      "status": "draft"
-    },
-    {
-      "name": "IN8 Development",
-      "relationship": "Professional experience",
-      "industry": "Real Estate",
-      "kind": "Professional experience",
-      "text": "Included in my record of businesses, brands, and projects worked with.",
-      "business": "Real Estate · Business / brand",
-      "contribution_status": "Details to document",
-      "status": "draft"
-    },
-    {
-      "name": "connect.ca",
-      "relationship": "Professional experience",
-      "industry": "Real Estate",
-      "kind": "Professional experience",
-      "text": "Included in my record of businesses, brands, and projects worked with.",
-      "business": "Real Estate · Business / brand",
-      "contribution_status": "Details to document",
-      "status": "draft"
-    },
-    {
-      "name": "The Condo Store",
-      "relationship": "Professional experience",
-      "industry": "Real Estate",
-      "kind": "Professional experience",
-      "text": "Included in my record of businesses, brands, and projects worked with.",
-      "business": "Real Estate · Project",
-      "contribution_status": "Details to document",
-      "status": "draft"
-    },
-    {
-      "name": "Royal LePage",
-      "relationship": "Professional experience",
-      "industry": "Real Estate",
-      "kind": "Professional experience",
-      "text": "Included in my record of businesses, brands, and projects worked with.",
-      "business": "Real Estate · Business / brand",
-      "contribution_status": "Details to document",
-      "logo": "/logos/royal-lepage.svg",
-      "logo_source": "https://storage.googleapis.com/www-d.royallepage.ca/media/main/svg/logos/home/rlp.caRLP-Logo-primary-E.svg",
-      "status": "draft"
-    },
-    {
-      "name": "Matrix Mortgage Global",
-      "relationship": "Agency account · SearchKings / Search Engine People, 2016–2018",
-      "industry": "Finance",
-      "kind": "Agency account",
-      "text": "Mortgage performance account in the agency portfolio.",
-      "business": "Finance · Business / brand",
-      "contribution_status": "Details to document"
-    },
-    {
-      "name": "Windsor Family Credit Union",
-      "relationship": "Client engagement · 2025 to present",
-      "industry": "Finance",
-      "kind": "Client engagement",
-      "text": "Paid acquisition and funnel work. Score is lead quality and acquisition cost.",
-      "business": "Finance · Business / brand",
-      "contribution_status": "Details to document"
-    },
-    {
-      "name": "Toronto Gold Bullion",
-      "relationship": "Professional experience",
-      "industry": "Finance",
-      "kind": "Professional experience",
-      "text": "Included in my record of businesses, brands, and projects worked with.",
-      "business": "Finance · Business / brand",
-      "contribution_status": "Details to document",
-      "status": "draft"
-    },
-    {
-      "name": "Visualping",
-      "relationship": "Professional experience",
-      "industry": "Technology",
-      "kind": "Professional experience",
-      "text": "Included in my record of businesses, brands, and projects worked with.",
-      "business": "Technology · Business / brand",
-      "contribution_status": "Details to document",
-      "status": "draft"
-    },
-    {
-      "name": "RateMDs",
-      "relationship": "VerticalScope property · 2018–2022",
-      "industry": "Technology",
-      "kind": "VerticalScope property",
-      "text": "VerticalScope property. Affiliate and programmatic growth across a high-traffic consumer audience.",
-      "business": "Technology · Business / brand",
-      "contribution_status": "Details to document"
-    },
-    {
-      "name": "VEGAIN",
-      "relationship": "Professional experience",
-      "industry": "Commerce",
-      "kind": "Professional experience",
-      "text": "Included in my record of businesses, brands, and projects worked with.",
-      "business": "Commerce · Business / brand",
-      "contribution_status": "Details to document",
-      "status": "draft"
-    },
-    {
-      "name": "RealEstateTutoring.com",
-      "relationship": "Professional experience",
-      "industry": "Commerce",
-      "kind": "Professional experience",
-      "text": "Included in my record of businesses, brands, and projects worked with.",
-      "business": "Commerce · Business / brand",
-      "contribution_status": "Details to document",
-      "status": "draft"
-    },
-    {
-      "name": "ATA Furniture Assembly",
-      "relationship": "Professional experience",
-      "industry": "Commerce",
-      "kind": "Professional experience",
-      "text": "Included in my record of businesses, brands, and projects worked with.",
-      "business": "Commerce · Business / brand",
-      "contribution_status": "Details to document",
-      "status": "draft"
-    },
-    {
-      "name": "TreadmillReviews.net",
-      "relationship": "VerticalScope property · 2018–2022",
-      "industry": "Commerce",
-      "kind": "VerticalScope property",
-      "text": "VerticalScope property. Affiliate and programmatic growth across a high-traffic consumer audience.",
-      "business": "Commerce · Business / brand",
-      "contribution_status": "Details to document"
-    },
-    {
-      "name": "FitRated",
-      "relationship": "VerticalScope property · 2018–2022",
-      "industry": "Commerce",
-      "kind": "VerticalScope property",
-      "text": "VerticalScope property. Affiliate and programmatic growth across a high-traffic consumer audience.",
-      "business": "Commerce · Business / brand",
-      "contribution_status": "Details to document"
-    },
-    {
-      "name": "Mr. Rooter",
-      "relationship": "Agency account · SearchKings / Search Engine People, 2016–2018",
-      "industry": "Home Services",
-      "kind": "Agency account",
-      "text": "Skilled-trades performance program in a 70 plus account portfolio. Accountability was lead quality, conversion, and acquisition economics.",
-      "business": "Home Services · Business / brand",
-      "contribution_status": "Details to document"
-    },
-    {
-      "name": "Sobha Dubai",
-      "relationship": "Campaign work · 2025",
-      "industry": "Real Estate",
-      "kind": "Campaign work",
-      "business": "Real Estate · Campaign",
-      "text": "Campaign planning and paid search execution for Sobha Siniya Island and Sobha Central: Google Search and Display, Meta awareness and retargeting, project-specific landing pages, forms, WhatsApp follow-up, targeting Australia, London, and India."
-    },
-    {
-      "name": "Pre-construction buyer inquiries",
-      "relationship": "Buyer inquiry routing · 2019–2021",
-      "industry": "Real Estate",
-      "kind": "Project work",
-      "business": "Real Estate · Project",
-      "text": "Supported project-specific inquiry capture and routed buyer leads to broker partners for follow-up."
-    }
-  ]
+  "knowsAbout": [
+   "Growth marketing",
+   "Paid search",
+   "SEO",
+   "Lead generation",
+   "Conversion optimization",
+   "Marketing automation",
+   "Affiliate marketing",
+   "Digital ventures"
+  ],
+  "knowsLanguage": [
+   "English",
+   "Persian"
+  ],
+  "alumniOf": {
+   "@type": "EducationalOrganization",
+   "name": "Schulich School of Business, York University",
+   "description": "Honours Bachelor of Business Administration (BBA), Marketing, 2011"
+  },
+  "hasOccupation": {
+   "@type": "Occupation",
+   "name": "Founder, Banoo Marketing"
+  },
+  "worksFor": {
+   "@type": "Organization",
+   "name": "Banoo Marketing",
+   "url": "https://banoo.marketing/"
+  }
+ },
+ "ventures": [
+  {
+   "slug": "banoo-marketing",
+   "name": "Banoo Marketing",
+   "category": "Growth & advisory",
+   "role": "Founder",
+   "status": "Consulting & execution",
+   "url": "https://banoo.marketing/",
+   "text": "Customer acquisition, designed as a system.",
+   "detail": "Performance marketing, conversion optimization, and automation brought together around measurable business outcomes.",
+   "positioning": "Customer acquisition, designed as a system.",
+   "does": [
+    "Performance marketing across Google Ads, Meta, and YouTube",
+    "Conversion optimization and landing pages",
+    "Marketing automation, CRM, and AI-assisted workflows"
+   ],
+   "proof": [
+    "Founder: Banoo Inc., a fractional CMO and marketing automation consultancy",
+    "Marketing Lead at 416-Flowers.com",
+    "Client work includes Granado's (Meta ads), Intuitus Cyber, Toronto Gold Bullion, and Mandarin Restaurants"
+   ],
+   "badge": "Active"
+  },
+  {
+   "slug": "canada-business-loan",
+   "name": "Canada Business Loan",
+   "category": "Business financing",
+   "role": "Builder & operator",
+   "status": "Financing discovery",
+   "url": "https://canadabusinessloan.ca/",
+   "text": "A clearer path to business financing.",
+   "detail": "Helping Canadian business owners explore financing options and connect with participating providers. Canada Business Loan is a financing discovery business, not a lender.",
+   "positioning": "A clearer path to business financing.",
+   "does": [
+    "Business financing discovery for Canadian owners",
+    "Lead qualification and routing to participating providers",
+    "Educational content and structured financing information"
+   ],
+   "proof": [
+    "Marketplace model: a financing discovery business, not a lender",
+    "First funding closed November 2026: $82,537 arranged through Driven",
+    "Funding bar: businesses 12+ months old, consistently $15,000 a month"
+   ],
+   "badge": "Active"
+  },
+  {
+   "slug": "cityverified",
+   "name": "CityVerified",
+   "category": "AI & local commerce",
+   "role": "Builder",
+   "status": "In development",
+   "url": "https://cityverified.ca/",
+   "text": "Local business, legible to intelligent systems.",
+   "detail": "Developing structured business information and evidence to help AI systems discover and understand local businesses.",
+   "positioning": "Local business, legible to intelligent systems.",
+   "does": [
+    "Structured, machine-readable business facts",
+    "Verification and provenance for local businesses",
+    "AI discoverability for GTA trades, expanding across Canada"
+   ],
+   "proof": [
+    "59 local-business entries with verified structured facts published (November 2026)",
+    "Built for AI agents and search engines, not just human readers"
+   ],
+   "badge": "In development"
+  }
+ ],
+ "experience": [
+  {
+   "name": "Intercap / .inc",
+   "relationship": "Career · Director of Marketing, Jan 2023 to Mar 2025",
+   "industry": "Technology",
+   "text": "Director of Marketing, Jan 2023 to Mar 2025. Supported ARR growth from $5M to $10M. Cut CPL from about $180 to about $70 while lead volume rose 50 percent. Built the marketing function from 1 to 10 plus specialists.",
+   "business": "Technology · Business / brand",
+   "kind": "Career",
+   "case_study": "/case-studies/intercap/",
+   "featured": true
+  },
+  {
+   "name": "416-Flowers",
+   "relationship": "Client engagement · Banoo Marketing",
+   "industry": "Commerce",
+   "text": "Digital marketing and customer acquisition support for floral ecommerce.",
+   "business": "Commerce · Business / brand",
+   "logo": "/logos/416-flowers.svg",
+   "logo_source": "https://www.416-flowers.com/_next/static/media/416-Flowers.0e65rsvw_x2tn.svg"
+  },
+  {
+   "name": "VerticalScope",
+   "relationship": "Employer · Senior Growth Marketing Manager, 2018–2022",
+   "industry": "Technology",
+   "kind": "Career",
+   "text": "Senior Growth Marketing Manager, 2018 to 2022. Affiliate revenue up 75 percent and CPC down 45 percent across five high-traffic consumer properties. Led a Black Friday program of about $1.5M, scaling only while the roughly 3 to 1 revenue line held.",
+   "business": "Technology · Business / brand",
+   "featured": true,
+   "case_study": "/case-studies/verticalscope/"
+  },
+  {
+   "name": "SearchKings",
+   "relationship": "Employer · Agency Paid Search and Performance Leader, 2016–2018",
+   "industry": "Marketing",
+   "kind": "Career",
+   "text": "Agency Paid Search and Performance Leader, 2016 to 2018, in one combined role across SearchKings and Search Engine People. Delivered 5x plus ROAS on high-spend accounts, including personal-injury search at $50 to $200 plus CPC across 70 plus accounts.",
+   "business": "Marketing · Business / brand",
+   "logo": "/logos/searchkings.svg",
+   "logo_source": "https://cdn.searchkings.ca/img/sk-logo-d07e2f005d.svg",
+   "featured": true
+  },
+  {
+   "name": "Search Engine People (SEP)",
+   "relationship": "Employer · Agency Paid Search and Performance Leader, 2016–2018",
+   "industry": "Marketing",
+   "kind": "Career",
+   "text": "Agency Paid Search and Performance Leader, 2016 to 2018, in one combined role across SearchKings and Search Engine People. Delivered 5x plus ROAS on high-spend accounts, including personal-injury search at $50 to $200 plus CPC across 70 plus accounts.",
+   "business": "Marketing · Business / brand",
+   "logo": "/logos/search-engine-people-sep.png",
+   "logo_source": "https://www.searchenginepeople.com/wp-content/uploads/2026/01/Search-Engine-People-Logo-2026.png",
+   "featured": true
+  },
+  {
+   "name": "eDealer",
+   "relationship": "Employer · Digital Marketing Manager, 2014–2016",
+   "industry": "Automotive",
+   "kind": "Career",
+   "text": "Digital Marketing Manager, 2014 to 2016. Digital acquisition for 20 plus dealerships and dealer groups: inventory, launch, and seasonal search inside OEM co-op rules.",
+   "business": "Automotive · Business / brand",
+   "logo": "/logos/edealer.webp",
+   "logo_source": "https://d1zjbkx971hjzm.cloudfront.net/wp-content/uploads/2024/11/14133352/EDealer%402x.webp",
+   "featured": true
+  },
+  {
+   "name": "Heydari Hamilton Law Firm",
+   "relationship": "Client",
+   "industry": "Legal",
+   "kind": "Client",
+   "text": "Managed the firm's marketing.",
+   "business": "Legal · Business / brand",
+   "contribution_status": "Details to document"
+  },
+  {
+   "name": "Heydari Green",
+   "relationship": "Client",
+   "industry": "Legal",
+   "kind": "Client",
+   "text": "Managed the firm's marketing.",
+   "business": "Legal · Business / brand",
+   "contribution_status": "Details to document",
+   "tier": "full-list"
+  },
+  {
+   "name": "Divorce Marketing Group",
+   "relationship": "Client",
+   "industry": "Legal",
+   "kind": "Client",
+   "text": "Managed the firm's marketing.",
+   "business": "Legal · Business / brand",
+   "contribution_status": "Details to document",
+   "tier": "full-list"
+  },
+  {
+   "name": "Diamond & Diamond",
+   "relationship": "Agency account · SearchKings / Search Engine People, 2016–2018",
+   "industry": "Legal",
+   "kind": "Agency account",
+   "text": "Personal-injury search in $50 to $200 plus CPC auctions. Accountability was lead quality and acquisition cost.",
+   "business": "Legal · Business / brand",
+   "contribution_status": "Details to document",
+   "featured": true
+  },
+  {
+   "name": "Preszler Law",
+   "relationship": "Agency account · SearchKings / Search Engine People, 2016–2018",
+   "industry": "Legal",
+   "kind": "Agency account",
+   "text": "Personal-injury search in $50 to $200 plus CPC auctions. Accountability was lead quality and acquisition cost.",
+   "business": "Legal · Business / brand",
+   "contribution_status": "Details to document",
+   "featured": true
+  },
+  {
+   "name": "Fosters Law",
+   "relationship": "Client engagement · 2025 to Nov 2026",
+   "industry": "Legal",
+   "kind": "Client engagement",
+   "text": "Paid acquisition and funnel work. Score is lead quality and acquisition cost.",
+   "business": "Legal · Business / brand",
+   "contribution_status": "Details to document"
+  },
+  {
+   "name": "Mirian Law Firm",
+   "relationship": "Client · 2023, returning 2026",
+   "industry": "Legal",
+   "kind": "Client",
+   "text": "Ross Mirian's personal-injury firm in Thornhill. Google Ads and YouTube campaigns, July to October 2023. The October 2023 report showed 4,800+ users a month at a $0.89 CPC. Back in November 2026 for a PPC audit and a YouTube campaign.",
+   "business": "Legal · Business / brand",
+   "contribution_status": "Details to document",
+   "featured": true,
+   "case_study": "/case-studies/mirian/"
+  },
+  {
+   "name": "Cactus Law",
+   "relationship": "Professional experience",
+   "industry": "Legal",
+   "kind": "Professional experience",
+   "text": "Included in my record of businesses, brands, and projects worked with.",
+   "business": "Legal · Business / brand",
+   "contribution_status": "Details to document",
+   "status": "draft"
+  },
+  {
+   "name": "Lexpand",
+   "relationship": "Professional experience",
+   "industry": "Legal",
+   "kind": "Professional experience",
+   "text": "Included in my record of businesses, brands, and projects worked with.",
+   "business": "Legal · Business / brand",
+   "contribution_status": "Details to document",
+   "status": "draft"
+  },
+  {
+   "name": "Subaru Canada",
+   "relationship": "Agency account · SearchKings / Search Engine People, 2016–2018",
+   "industry": "Automotive",
+   "kind": "Agency account",
+   "text": "Inventory search for Subaru Canada, managed as part of the agency portfolio.",
+   "business": "Automotive · Business / brand",
+   "contribution_status": "Details to document"
+  },
+  {
+   "name": "Pfaff Auto Group",
+   "relationship": "Dealer account · eDealer, 2014–2016",
+   "industry": "Automotive",
+   "kind": "Dealer account",
+   "text": "Dealer account. Inventory, launch, and seasonal search inside OEM co-op rules.",
+   "business": "Automotive · Business / brand",
+   "contribution_status": "Details to document",
+   "logo": "/logos/pfaff-auto-group.webp",
+   "logo_source": "https://www.pfaffauto.com/images/Logo/PFAFF_LOGOSM.webp",
+   "logo_dark": true
+  },
+  {
+   "name": "Zanchin Auto Group",
+   "relationship": "Dealer account · eDealer, 2014–2016",
+   "industry": "Automotive",
+   "kind": "Dealer account",
+   "text": "Dealer account. Inventory, launch, and seasonal search inside OEM co-op rules.",
+   "business": "Automotive · Business / brand",
+   "contribution_status": "Details to document"
+  },
+  {
+   "name": "Policaro Auto Group",
+   "relationship": "Dealer account · eDealer, 2014–2016",
+   "industry": "Automotive",
+   "kind": "Dealer account",
+   "text": "Dealer account. Inventory, launch, and seasonal search inside OEM co-op rules.",
+   "business": "Automotive · Business / brand",
+   "contribution_status": "Details to document"
+  },
+  {
+   "name": "MacDonald Auto Group",
+   "relationship": "Dealer account · eDealer, 2014–2016",
+   "industry": "Automotive",
+   "kind": "Dealer account",
+   "text": "Dealer account. Inventory, launch, and seasonal search inside OEM co-op rules.",
+   "business": "Automotive · Business / brand",
+   "contribution_status": "Details to document"
+  },
+  {
+   "name": "Budds’ BMW & Budds’ Auto Group",
+   "relationship": "Dealer account · eDealer, 2014–2016",
+   "industry": "Automotive",
+   "kind": "Dealer account",
+   "text": "Multiple Budds dealerships, including BMW. Inventory, launch, and seasonal search inside OEM co-op rules.",
+   "business": "Automotive · Business / brand",
+   "contribution_status": "Details to document"
+  },
+  {
+   "name": "Rafih Auto Group",
+   "relationship": "Dealer account · eDealer, 2014–2016; agency account, 2016–2018",
+   "industry": "Automotive",
+   "kind": "Dealer account",
+   "text": "Dealer group managed in both eras: inventory and launch search at eDealer, then agency performance work at SearchKings and Search Engine People.",
+   "business": "Automotive · Business / brand"
+  },
+  {
+   "name": "AutoGuide",
+   "relationship": "VerticalScope property · 2018–2022",
+   "industry": "Automotive",
+   "kind": "VerticalScope property",
+   "text": "VerticalScope property. Affiliate and programmatic growth across a high-traffic consumer audience.",
+   "business": "Automotive · Business / brand",
+   "contribution_status": "Details to document"
+  },
+  {
+   "name": "RedFlagDeals",
+   "relationship": "VerticalScope property · 2018–2022",
+   "industry": "Technology",
+   "kind": "VerticalScope property",
+   "text": "VerticalScope property. Affiliate and programmatic growth across a high-traffic consumer audience.",
+   "business": "Technology · Business / brand"
+  },
+  {
+   "name": "N5R",
+   "relationship": "Professional experience",
+   "industry": "Real Estate",
+   "kind": "Professional experience",
+   "text": "Included in my record of businesses, brands, and projects worked with.",
+   "business": "Real Estate · Business / brand",
+   "contribution_status": "Details to document",
+   "status": "draft"
+  },
+  {
+   "name": "Sydenham Project",
+   "relationship": "Professional experience",
+   "industry": "Real Estate",
+   "kind": "Professional experience",
+   "text": "Included in my record of businesses, brands, and projects worked with.",
+   "business": "Real Estate · Project",
+   "contribution_status": "Details to document",
+   "status": "draft"
+  },
+  {
+   "name": "aCondo.ca",
+   "relationship": "Project work · Oct–Dec 2018",
+   "industry": "Real Estate",
+   "kind": "Project work",
+   "text": "Produced and managed project-specific pages for Toronto pre-construction developments, supporting project discovery and buyer inquiries. 39 condo and townhome project pages completed between October 16 and December 6, 2018.",
+   "business": "Real Estate · Project",
+   "featured": true
+  },
+  {
+   "name": "Nobu Condo",
+   "relationship": "Professional experience",
+   "industry": "Real Estate",
+   "kind": "Professional experience",
+   "text": "Included in my record of businesses, brands, and projects worked with.",
+   "business": "Real Estate · Project",
+   "contribution_status": "Details to document",
+   "status": "draft"
+  },
+  {
+   "name": "Panda Condo",
+   "relationship": "Professional experience",
+   "industry": "Real Estate",
+   "kind": "Professional experience",
+   "text": "Included in my record of businesses, brands, and projects worked with.",
+   "business": "Real Estate · Project",
+   "contribution_status": "Details to document",
+   "status": "draft"
+  },
+  {
+   "name": "Thompson Hotel Condo",
+   "relationship": "Professional experience",
+   "industry": "Real Estate",
+   "kind": "Professional experience",
+   "text": "Included in my record of businesses, brands, and projects worked with.",
+   "business": "Real Estate · Project",
+   "contribution_status": "Details to document",
+   "status": "draft"
+  },
+  {
+   "name": "Sugar Wharf Condos",
+   "relationship": "Professional experience",
+   "industry": "Real Estate",
+   "kind": "Professional experience",
+   "text": "Included in my record of businesses, brands, and projects worked with.",
+   "business": "Real Estate · Project",
+   "contribution_status": "Details to document",
+   "status": "draft"
+  },
+  {
+   "name": "IN8 Development",
+   "relationship": "Professional experience",
+   "industry": "Real Estate",
+   "kind": "Professional experience",
+   "text": "Included in my record of businesses, brands, and projects worked with.",
+   "business": "Real Estate · Business / brand",
+   "contribution_status": "Details to document",
+   "status": "draft"
+  },
+  {
+   "name": "connect.ca",
+   "relationship": "Professional experience",
+   "industry": "Real Estate",
+   "kind": "Professional experience",
+   "text": "Included in my record of businesses, brands, and projects worked with.",
+   "business": "Real Estate · Business / brand",
+   "contribution_status": "Details to document",
+   "status": "draft"
+  },
+  {
+   "name": "The Condo Store",
+   "relationship": "Professional experience",
+   "industry": "Real Estate",
+   "kind": "Professional experience",
+   "text": "Included in my record of businesses, brands, and projects worked with.",
+   "business": "Real Estate · Project",
+   "contribution_status": "Details to document",
+   "status": "draft"
+  },
+  {
+   "name": "Royal LePage",
+   "relationship": "Professional experience",
+   "industry": "Real Estate",
+   "kind": "Professional experience",
+   "text": "Included in my record of businesses, brands, and projects worked with.",
+   "business": "Real Estate · Business / brand",
+   "contribution_status": "Details to document",
+   "logo": "/logos/royal-lepage.svg",
+   "logo_source": "https://storage.googleapis.com/www-d.royallepage.ca/media/main/svg/logos/home/rlp.caRLP-Logo-primary-E.svg",
+   "status": "draft"
+  },
+  {
+   "name": "Matrix Mortgage Global",
+   "relationship": "Agency account · SearchKings / Search Engine People, 2016–2018",
+   "industry": "Finance",
+   "kind": "Agency account",
+   "text": "Mortgage performance account in the agency portfolio.",
+   "business": "Finance · Business / brand",
+   "contribution_status": "Details to document"
+  },
+  {
+   "name": "Windsor Family Credit Union",
+   "relationship": "Client engagement · 2025 to present",
+   "industry": "Finance",
+   "kind": "Client engagement",
+   "text": "Paid acquisition and funnel work. Score is lead quality and acquisition cost.",
+   "business": "Finance · Business / brand",
+   "contribution_status": "Details to document"
+  },
+  {
+   "name": "Toronto Gold Bullion",
+   "relationship": "Professional experience",
+   "industry": "Finance",
+   "kind": "Professional experience",
+   "text": "Included in my record of businesses, brands, and projects worked with.",
+   "business": "Finance · Business / brand",
+   "contribution_status": "Details to document",
+   "status": "draft"
+  },
+  {
+   "name": "Visualping",
+   "relationship": "Professional experience",
+   "industry": "Technology",
+   "kind": "Professional experience",
+   "text": "Included in my record of businesses, brands, and projects worked with.",
+   "business": "Technology · Business / brand",
+   "contribution_status": "Details to document",
+   "status": "draft"
+  },
+  {
+   "name": "RateMDs",
+   "relationship": "VerticalScope property · 2018–2022",
+   "industry": "Technology",
+   "kind": "VerticalScope property",
+   "text": "VerticalScope property. Affiliate and programmatic growth across a high-traffic consumer audience.",
+   "business": "Technology · Business / brand",
+   "contribution_status": "Details to document"
+  },
+  {
+   "name": "VEGAIN",
+   "relationship": "Professional experience",
+   "industry": "Commerce",
+   "kind": "Professional experience",
+   "text": "Included in my record of businesses, brands, and projects worked with.",
+   "business": "Commerce · Business / brand",
+   "contribution_status": "Details to document",
+   "status": "draft"
+  },
+  {
+   "name": "RealEstateTutoring.com",
+   "relationship": "Professional experience",
+   "industry": "Commerce",
+   "kind": "Professional experience",
+   "text": "Included in my record of businesses, brands, and projects worked with.",
+   "business": "Commerce · Business / brand",
+   "contribution_status": "Details to document",
+   "status": "draft"
+  },
+  {
+   "name": "ATA Furniture Assembly",
+   "relationship": "Professional experience",
+   "industry": "Commerce",
+   "kind": "Professional experience",
+   "text": "Included in my record of businesses, brands, and projects worked with.",
+   "business": "Commerce · Business / brand",
+   "contribution_status": "Details to document",
+   "status": "draft"
+  },
+  {
+   "name": "TreadmillReviews.net",
+   "relationship": "VerticalScope property · 2018–2022",
+   "industry": "Commerce",
+   "kind": "VerticalScope property",
+   "text": "VerticalScope property. Affiliate and programmatic growth across a high-traffic consumer audience.",
+   "business": "Commerce · Business / brand",
+   "contribution_status": "Details to document"
+  },
+  {
+   "name": "FitRated",
+   "relationship": "VerticalScope property · 2018–2022",
+   "industry": "Commerce",
+   "kind": "VerticalScope property",
+   "text": "VerticalScope property. Affiliate and programmatic growth across a high-traffic consumer audience.",
+   "business": "Commerce · Business / brand",
+   "contribution_status": "Details to document"
+  },
+  {
+   "name": "Mr. Rooter",
+   "relationship": "Agency account · SearchKings / Search Engine People, 2016–2018",
+   "industry": "Home Services",
+   "kind": "Agency account",
+   "text": "Skilled-trades performance program in a 70 plus account portfolio. Accountability was lead quality, conversion, and acquisition economics.",
+   "business": "Home Services · Business / brand",
+   "contribution_status": "Details to document"
+  },
+  {
+   "name": "Sobha Dubai",
+   "relationship": "Campaign work · 2025",
+   "industry": "Real Estate",
+   "kind": "Campaign work",
+   "business": "Real Estate · Campaign",
+   "text": "Campaign planning and paid search execution for Sobha Siniya Island and Sobha Central: Google Search and Display, Meta awareness and retargeting, project-specific landing pages, forms, WhatsApp follow-up, targeting Australia, London, and India."
+  },
+  {
+   "name": "Pre-construction buyer inquiries",
+   "relationship": "Buyer inquiry routing · 2019–2021",
+   "industry": "Real Estate",
+   "kind": "Project work",
+   "business": "Real Estate · Project",
+   "text": "Supported project-specific inquiry capture and routed buyer leads to broker partners for follow-up.",
+   "tier": "full-list"
+  }
+ ]
 }

@@ -4,8 +4,12 @@ Personal headquarters of Emod Vafa, growth marketing executive and entrepreneur.
 
 - Identity: https://vafa.co/identity.json
 - Experience: https://vafa.co/experience/
+- About: https://vafa.co/about/
+- Talent: https://vafa.co/talent/
 - Real estate: https://vafa.co/real-estate/
 - Case study: https://vafa.co/case-studies/intercap/
+- Case study: https://vafa.co/case-studies/verticalscope/
+- Case study: https://vafa.co/case-studies/mirian/
 - Ventures: https://vafa.co/#ventures
 - Contact: Emod@Vafa.co
 

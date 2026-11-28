@@ -9,5 +9,33 @@
   "sameAs": [
     "https://ca.linkedin.com/in/emodvafa",
     "https://github.com/Emodv"
-  ]
+  ],
+  "knowsAbout": [
+    "Growth marketing",
+    "Paid search",
+    "SEO",
+    "Lead generation",
+    "Conversion optimization",
+    "Marketing automation",
+    "Affiliate marketing",
+    "Digital ventures"
+  ],
+  "knowsLanguage": [
+    "English",
+    "Persian"
+  ],
+  "alumniOf": {
+    "@type": "EducationalOrganization",
+    "name": "Schulich School of Business, York University",
+    "description": "Honours Bachelor of Business Administration (BBA), Marketing, 2011"
+  },
+  "hasOccupation": {
+    "@type": "Occupation",
+    "name": "Founder, Banoo Marketing"
+  },
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Banoo Marketing",
+    "url": "https://banoo.marketing/"
+  }
 }

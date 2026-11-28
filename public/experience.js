@@ -4,9 +4,20 @@
   const search = document.getElementById('brand-search');
   const count = document.getElementById('result-count');
   const empty = document.getElementById('empty-state');
+  const fullList = document.getElementById('full-list');
+  let openedByFilter = false;
+  let settingFullList = false;
+  fullList?.addEventListener('toggle', () => { if (!settingFullList) openedByFilter = false; });
   let filter = 'All';
   function update() {
     const query = search.value.trim().toLowerCase();
+    const active = filter !== 'All' || query !== '';
+    if (fullList) {
+      settingFullList = true;
+      if (active) { if (!fullList.open) { fullList.open = true; openedByFilter = true; } }
+      else if (openedByFilter) { fullList.open = false; openedByFilter = false; }
+      settingFullList = false;
+    }
     let visible = 0;
     cards.forEach(card => {
       card.hidden = (filter !== 'All' && card.dataset.industry !== filter) || !(card.innerHTML + ' ' + card.textContent).toLowerCase().includes(query);
